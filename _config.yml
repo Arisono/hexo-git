@@ -68,5 +68,5 @@ theme: pacman
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:github
-  repo:git@github.com:xzjmyk.github.io
+  type: github
+  repo: git@github.com:xzjmyk/xzjmyk.github.io.git
